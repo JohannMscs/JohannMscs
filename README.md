@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Johann Moscoso 👋
 
 - 🌱 Estou fazendo faculdade de Engenharia de Software
-- 📫 How to reach me: johann.moscoso@gmail.com
+
 
 <div align="center">
   <a href="https://github.com/JohannMscs">
