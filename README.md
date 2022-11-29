@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá, Eu sou o Johann Moscoso 👋
 
-<!--
-**JohannMscs/JohannMscs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 Estou fazendo faculdade de Engenharia de Software
+- 📫 How to reach me: johann.moscoso@gmail.com
+
+<div align="center">
+  <a href="https://github.com/JohannMscs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohannMscs&show_icons=true&theme=tokyonight&show_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannMscs&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+##
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
+           
+          
