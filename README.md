@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Johann Moscoso 👋
 
-- 🌱 Estou fazendo faculdade de Engenharia de Software
+- 🌱 Estou cursando faculdade de Engenharia de Software, atualmente no 4º período.
 
 
 <div align="center">
