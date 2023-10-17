@@ -14,8 +14,9 @@
   <img alling - 'center' alt - "Johann-Postgresql" height ="40" width ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <img aling= 'center' alt - "Johann-Html" height ="40" width ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img  alling - 'center' alt - "Johann-Css" height ="40" width ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img alling - 'center' alt - "Johann-Javascript" height ="40" width ="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img alling - 'center' alt - "Johann-Javascript" height ="40" width ="50"  src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/>
+<img alling - 'center' alt - "Johann-Javascript" height ="40" width ="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
 
    </div>        
           
