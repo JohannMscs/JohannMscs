@@ -21,7 +21,7 @@
    </div>        
           
 <div> 
-<a href="" target"_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target"blank"></a>
+<a href="malito:johann.moscoso@gmail.com" target"_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target"blank"></a>
 <a href="" target"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"blank"></a>
 <a href="https://johannmoscoso.vercel.app" target"_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=portifolio&logoColor=white" target"blank"></a>
 
